@@ -2,8 +2,8 @@
 
 ## Aim of this Repository
 
-The aim of this repository is to help you learn how to interact with Javascript WebAssembly API by, You'll learn how to convert C++ program into webassembly (.wasm) file, and all the object provided by Webassembly APIs
-You don't need to install anything for Webassembly module JS already have access to that
+The aim of this repository is to help you learn how to interact with Javascript WebAssembly API, You'll learn how to convert C++ program into webassembly (.wasm) file, 
+You don't need to install anything for Webassembly module, JS already have access to that
 
 ## Prerequisites
 
